@@ -1,0 +1,15 @@
+body {font-family: 'Roboto', sans-serif;
+color: #2E2F42;}
+a {text-decoration: none;}
+.navigathoin-page, .addres-list {list-style-type: none;
+font-size: 16px; line-height: 1.5; font-weight: 500;}
+.company {font-family: 'Raleway',
+    sans-serif; font-weight: 700; line-height: 1.667; font-size: 18px;}
+    .web {color: #4D5AE5;}
+.addres-list{color: #434455; font-weight: 400;}
+.navigathoin .navigathoin-page :hover, .addres-list :hover,.navigathoin .navigathoin-page:active,
+.addres-list:active {color: #404BBF; }
+.navigathoin-page-list:active{text-decoration: underline;}
+.hero-section {background-color: #2E2F42;}
+.hero {color: white; font-size: 56px; font-weight: 700; line-height: 1.07; text-align: center;}
+.buton-order {color: #4D5AE5; }
