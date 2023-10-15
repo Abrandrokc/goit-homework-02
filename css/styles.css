@@ -5,7 +5,7 @@ a {text-decoration: none;}
 .navigathoin-page, .addres-list {list-style-type: none;
 font-size: 16px; line-height: 1.5; font-weight: 500;letter-spacing: 0.02em;color: #404bbf}
 .company {font-family: 'Raleway',
-    sans-serif; font-weight: 700; line-height: 1.17; font-size: 18px;letter-spacing: 0.003em;text-transform: uppercase;color: #4d5ae5;}
+    sans-serif; font-weight: 700; line-height: 1.17; font-size: 18px;letter-spacing: 0.03em;text-transform: uppercase;color: #4d5ae5;}
     .web {color: #2e2f42;}
 .addres-list{color: #434455; font-weight: 400;}
 .navigathoin .navigathoin-page :hover, .addres-list :hover,.navigathoin .navigathoin-page:active,
@@ -17,7 +17,7 @@ font-size: 16px; line-height: 1.5; font-weight: 500;letter-spacing: 0.02em;color
     line-height: 1.5;
     font-weight: 500;
 background-color: #4D5AE5;
-letter-spacing: 0.04em;}
+letter-spacing: 0.04em;background-color: #404BBF;}
 .buton-order :hover, .buton-order :active{color: #ffffff;text-shadow: 0px, 4px, 4px, #000000; cursor: pointer;font-size: 16px; line-height: 1.5;font-weight: 500;}
 .Company-benefits {visibility: hidden;} 
 .team-section {background-color: #F4F4FD;}
