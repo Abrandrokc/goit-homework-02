@@ -3,13 +3,13 @@ color: #434455; background-color: #FFFFFF;}
 a {text-decoration: none;}
 .adress{font-style: normal}
 .navigathoin-page, .addres-list {list-style-type: none;
-font-size: 16px; line-height: 1.5; font-weight: 500;letter-spacing: 0.02em;color: #404bbf}
+font-size: 16px; line-height: 1.5; font-weight: 500;letter-spacing: 0.02em;color: #2e2f42}
 .company {font-family: 'Raleway',
     sans-serif; font-weight: 700; line-height: 1.17; font-size: 18px;letter-spacing: 0.03em;text-transform: uppercase;color: #4d5ae5;}
     .web {color: #2e2f42;}
 .addres-list{color: #434455; font-weight: 400;}
 .navigathoin .navigathoin-page :hover, .addres-list :hover,.navigathoin .navigathoin-page:active,
-.addres-list:active {color: #404BBF;}
+.addres-list:active {color: #404bbf;}
 .navigathoin-page-list:active{text-decoration: underline;}
 .hero-section {background-color: #2E2F42;}
 .hero {color: white; font-size: 56px; font-weight: 700; line-height: 1.07; text-align: center; letter-spacing: 0.02em;}
@@ -17,7 +17,7 @@ font-size: 16px; line-height: 1.5; font-weight: 500;letter-spacing: 0.02em;color
     line-height: 1.5;
     font-weight: 500;
 background-color: #4D5AE5;
-letter-spacing: 0.04em;background-color: #404BBF;}
+letter-spacing: 0.04em;}
 .buton-order :hover, .buton-order :active{color: #ffffff;text-shadow: 0px, 4px, 4px, #000000; cursor: pointer;font-size: 16px; line-height: 1.5;font-weight: 500;}
 .Company-benefits {visibility: hidden;} 
 .team-section {background-color: #F4F4FD;}
