@@ -24,7 +24,7 @@ a {text-decoration: none;}
     letter-spacing: 0.02em;}
 .sate{color: #2e2f42;}
 .mail-phon{color: #434455;}
-.sate:hover,.sate:focus{color: #404BBF;}
+.sate:hover,.sate:focus,.mail-phon:focus,.mail-phon:hover{color: #404BBF;}
 .hero-section {background-color:#2E2F42;}
 .hero {color: white;
     font-size: 56px;
