@@ -13,22 +13,18 @@ a {text-decoration: none;}
 }
     .web {color: #2e2f42;}
     .addres{font-style: normal}
-.navigathoin-page{color:#2e2f42;
+.navigathoin-page{color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
-.addres-list{color:#434455;font-weight: 500;
+.addres-list{color: #434455;font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;}
-.addres-list:hover,.addres-list:focus,.navigathoin-page:hover,.navigathoin-page:focus{color:#404BBF;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;}
 .sate{color: #2e2f42;}
 .mail-phon{color: #404BBF;}
+.sate:hover,.sate:focus{color: #404BBF;}
 .hero-section {background-color:#2E2F42;}
 .hero {color: white;
     font-size: 56px;
