@@ -27,7 +27,8 @@ a {text-decoration: none;}
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;}
-.sate-stydio:active{text-decoration: underline;color:#2e2f42}
+.sate{color: #2e2f42;}
+.mail-phon{color: #404BBF;}
 .hero-section {background-color:#2E2F42;}
 .hero {color: white;
     font-size: 56px;
