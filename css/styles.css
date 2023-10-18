@@ -17,11 +17,11 @@ a {text-decoration: none;}
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
-.addres-list{color: #434455;font-weight: 500;
+    letter-spacing: 0.02em;list-style: none;}
+.addres-list{color: #434455;font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;list-style: none;}
 .sate{color: #2e2f42;}
 .mail-phon{color: #434455;}
 .sate:hover,.sate:focus,.mail-phon:focus,.mail-phon:hover{color: #404BBF;}
